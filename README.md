@@ -4,6 +4,7 @@ Suppose you are working for the United Nations Statistics Bureau. The bureau is 
 
 1 – Yes, 2 –Abstain, 3 – No, 8 – Not present, 9 – Not a member.
 You have been supplied a dataset with United Nations Sessions data. It comes in a raw, unprepared format, and you will need to recode it using special packages.
+
 The bureau wants to know and in certain cases see visualization, for the following:
 1. Percent of positive votes across all years and countries.
 2. Trends in Positive, Negative and Abstain votes percent trends through the time (3 line charts with smoothing required?).
